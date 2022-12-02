@@ -1,2 +1,2 @@
-# aws-test
+# cloud-test
 cloud test
